@@ -1,7 +1,7 @@
 # This is a H1 header
 ### This is a H3 header
 
-![Image of a bunny](https://1.bp.blogspot.com/-PFd4kSsH4nM/UYhA1hRzsSI/AAAAAAAAH9U/2LlKBTxeheU/s1600/bunneh-ness.jpg)
+<img src="https://1.bp.blogspot.com/-PFd4kSsH4nM/UYhA1hRzsSI/AAAAAAAAH9U/2LlKBTxeheU/s1600/bunneh-ness.jpg" alt="Image of a bunny" height="250"/>
 
 ``` python
 def myFunction(input_list):
@@ -12,3 +12,7 @@ def myFunction(input_list):
       counter += 1
   return counter
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
